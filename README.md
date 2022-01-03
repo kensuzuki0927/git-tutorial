@@ -5,3 +5,5 @@
 - feature-C
 
 add E
+
+add a new line
